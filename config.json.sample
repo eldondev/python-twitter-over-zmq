@@ -1,0 +1,1 @@
+{"oauth_consumer_key": "REPLACEME", "oauth_signature_method": "HMAC-SHA1", "oauth_token": "REPLACEME", "oauth_version": "1.0", "url":"https://stream.twitter.com/1.1/statuses/sample.json", "method" : "GET"}

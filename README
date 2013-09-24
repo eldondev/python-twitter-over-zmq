@@ -1,5 +1,7 @@
 This is a super-simple little script to create a local pub-sub service for development around
-sampling the twitter stream.a
+sampling the twitter stream.
+
+You will need to copy $FILE.sample -> $FILE and replace REPLACEME in those files.
 
 Also practice on signing these oauth-y things.
 
