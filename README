@@ -1,0 +1,8 @@
+This is a super-simple little script to create a local pub-sub service for development around
+sampling the twitter stream.a
+
+Also practice on signing these oauth-y things.
+
+Depends on python zeromq bindings and pycurl.
+
+Let's pretend it's licensed MIT.
